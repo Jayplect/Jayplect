@@ -5,16 +5,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Jacob+Evans..&hearts;++;A+Data+Analyst,;With+Front-End+Developing+Skills,;Machine+Learning+Skills,;An+Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<br>
 <div text-align: center >
-- A passionate Data Analyst with Machine Learning skills
-- Currently enrolled in University of Toronto's Bootcamp
-- Actively seeking for a new job opportunity
-- Opened to collaborating on interesting and innovative projects
-- Playing Chess at spare time
+
+<p align="center">
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> <p align="right" font-size: 50px><strong>About me</strong></p>
+</p>
+	
+<p align="center">
+<em> 
+I'm a passionate Data Analyst with Machine Learning skills.<br>
+Currently enrolled in University of Toronto's Bootcamp<br>
+Actively seeking for a new job opportunity and Opened to collaborating on interesting and innovative projects
+</em> 
+</p>
+
 </div>
 <br>
 
