@@ -14,7 +14,7 @@
 <p align="center">
 <em> 
 I'm a passionate Data Analyst with Machine Learning skills.<br>
-Currently enrolled in University of Toronto's Bootcamp<br>
+Currently enrolled at the University of Toronto's Bootcamp<br>
 Actively seeking for a new job opportunity and Opened to collaborating on interesting and innovative projects
 </em> 
 </p>
