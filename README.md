@@ -13,7 +13,7 @@
 	
 <p align="center">
 <em> 
-I'm a passionate Data Analyst with Machine Learning skills.<br>
+I'm a passionate Data Analyst with Machine Learning skills<br>
 A Data Analytics Graduate from the University of Toronto<br>
 Actively seeking for a new job opportunity and Opened to collaborating on interesting and innovative projects
 </em> 
