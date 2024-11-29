@@ -9,7 +9,7 @@
 	
 <p align="center">
 <em> 
-I'm an Environmental Scientist with strong skills in Data Analysis and Machine Learning<br>
+<br>
 This page showcases my expertise and skills in Data Analysis and ML<br>
 Actively seeking for a new job opportunity and Opened to collaborating on interesting and innovative projects
 </em> 
