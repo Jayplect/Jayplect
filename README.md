@@ -18,7 +18,7 @@ Actively seeking for a new job opportunity and Opened to collaborating on intere
 <p align="center">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<a href="mailto:evansja.femi@gmail.com" target="_blank">
+<a href="mailto:jaychode@yahoo.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </p>
